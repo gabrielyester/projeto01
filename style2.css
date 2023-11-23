@@ -1,0 +1,15 @@
+.cabecalho{
+
+    border-color:blue;
+    
+    background-color: black; border: 5px; border-style: dashed; margin: 10px;
+    
+    color: white;
+    
+    font-weight: 400;
+    
+    }
+    
+    .principal
+    
+    background-color: blueviolet; border: 10px; border-color: tomato border-style: double; margin: 30px; color: yellow;
