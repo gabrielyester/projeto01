@@ -7,3 +7,16 @@
 background-color:navy;
 color:white;
 }
+text-decoration: none;
+
+#imagem{ width: 300px; border:dotted 2px black; }
+
+.principal{ background-color:darkblue; color:cornflowerblue; }
+
+.rodape{
+
+background-color: bisque;
+
+color:cadetblue;
+
+text-align: center;
